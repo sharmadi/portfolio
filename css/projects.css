@@ -1,0 +1,80 @@
+.projectsHeader{
+  text-align: center;
+  margin-top: 0%;
+  box-shadow: 0px 2px 5px #888888;
+  background-color: #FF9800;
+  height: 75px;
+}
+  .projectsHeader2{
+    font-style: sans-serif;
+    font-weight: 500;
+    font-size: 22;
+    text-align: center;
+    color: white;
+    padding-top: 3.5px;
+  }
+.links{
+  font-size: 17;
+  font-style: bold;
+  height: 85px;
+  margin-left: 3%;
+  margin-right: 3%;
+  font-style: times;
+  font-size: 18;
+}
+.button{
+  padding-bottom: 25px;
+}
+.links a{
+  text-align: center;
+  margin-left: 45%;
+}
+.descrip{
+  margin-left: 2%;
+}
+.link2{
+  margin-left: 5%;
+  font-size: 17;
+  font-style: bold;
+  padding-top: 8px;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  font-style: times;
+  font-size: 18;
+}
+.link2 a{
+  text-align: center;
+  margin-left: 44%;
+}
+.button2{
+  padding-bottom: 25px;
+}
+.descrip2{
+  margin-left: 2%;
+}
+.link3{
+  margin-left: 5%;
+  font-size: 17;
+  font-style: bold;
+  padding-top: 8px;
+  margin-left: 3%;
+  font-style: times ;
+  font-size: 18;
+}
+.button3{
+  padding-bottom: 25px;
+}
+.link3 a{
+  text-align: center;
+  margin-left: 43%;
+}
+.descrip3{
+  margin-left: 2%;
+}
+.Sentence{
+   text-align: center;
+   margin-top: 3%;
+   font-size: 22;
+   background-color: #EEEEEE;
+}

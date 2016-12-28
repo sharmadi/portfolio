@@ -1,0 +1,9 @@
+#leg1, #leg2{
+  display: inline-block;
+}
+#arm1, #arm2, #main{
+  display: inline-block;
+}
+#eye1, #eye2, #face{
+  display: inline-block;
+}

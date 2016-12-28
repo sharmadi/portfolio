@@ -1,0 +1,62 @@
+.headerImages{
+  background-color: #F44336;
+  color:white;
+  text-align: center;
+  margin-top: 0%;
+  height: 75px;
+  box-shadow: 0px 2px 5px #888888;
+}
+
+ .familypics{
+   text-align: left;
+   padding-top: 3%;
+   margin-left: 3%;
+   font-weight: 300;
+   font-size: 30;
+ }
+
+hr{
+  margin-top: 5%;
+}
+
+.Place{
+  text-align: center;
+  font-size: 24;
+  margin-top: 5%;
+  font-family:'Roboto', sans-serif ;
+  font-weight: 100;
+
+}
+.Place2{
+  text-align: center;
+  font-size: 24;
+  margin-top: 28%;
+  font-family: fantasy;
+  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Falls{
+  padding-left: 41px;
+  padding-right: 42px;
+  box-shadow: 0px 3px 10px #888888;
+  margin-bottom: 5%;
+  height: 253px;
+}
+
+.Miami{
+  float : left;
+  box-shadow: 0px 3px 10px #888888;
+  padding-left: 41px;
+  padding-right: 42px;
+  height: 253px;
+  margin-bottom: 5%;
+ }
+.Sentence1{
+  font-size: 22;
+  font-style: bold;
+  text-align: center;
+  margin-top: 3%;
+  color:black;
+  background-color: #EEEEEE;
+}

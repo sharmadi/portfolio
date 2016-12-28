@@ -1,0 +1,85 @@
+.headerAwards{
+  background-color: #4CAF50;
+  margin-top: 0%;
+  height: 75px;
+  box-shadow: 0px 2px 5px #888888;
+}
+
+.headerTitle{
+  color:white;
+  text-align: center;
+}
+
+.Achieve{
+  text-align: left;
+  font-style: italic;
+  font-size:18;
+  margin-left: 3%;
+  margin-bottom: 3%;
+  font-weight: lighter;
+  padding-top: 25px;
+  }
+
+  .subawards{
+   text-align: left;
+   margin-left:8%;
+   font-style: italic;
+   font-size:18;
+   font-weight: lighter;
+   padding-top: 50px;
+  }
+
+
+  .awards, .metal, .awardimage{
+    display: inline-block;
+    }
+
+ .metal{
+    box-shadow: 0px 3px 10px #888888;
+    float: right;
+    margin-top: 6%;
+    margin-right: 2%;
+    height: 225px;
+    width: 35%;
+    padding: 30px;
+  }
+
+ .awards{
+    box-shadow: 0px 3px 10px #888888;
+    padding: 30px;
+    margin-left: 2%;
+    margin-top: 6%;
+    width: 41%;
+    height: 225px;
+  }
+
+  .awardimage{
+    text-align: center;
+    margin-left: 4.3%;
+    padding-bottom: 10px;
+    }
+
+
+
+
+ .cardTitle{
+  padding-top: 5px;
+  font-weight: bolder;
+  font-size: 20;
+  text-align: center;
+}
+
+.Introthoughts{
+   text-align:center;
+   font-style: italic;
+   font-size: 22;
+   padding: 15px;
+   margin-left: 3%;
+ }
+ .goals{
+   box-shadow: 0px 3px 10px #888888;
+   margin-left: 5%;
+   margin-right: 3%;
+   margin-bottom: 3%;
+   margin-top: 5%;
+ }
