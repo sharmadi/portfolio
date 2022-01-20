@@ -1,0 +1,17 @@
+<html>
+<head>
+  <script type = "text/javascript">
+    function validator(){
+      if(document.AdiColor.checkit.checked)
+        document.body.style.backgroundColor = "red";
+      else
+        document.body.style.backgroundColor = "blue";
+      }
+  </script>
+</head>
+<body>
+<form name = "AdiColor">
+  <input type = "checkbox" name = "checkit" />
+  <input type = "button" value= "click me" onClick = "validator()"/>
+</body>
+</html>
